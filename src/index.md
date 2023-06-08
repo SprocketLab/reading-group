@@ -14,6 +14,7 @@ To suggest a paper, [open an issue](https://github.com/SprocketLab/reading-group
 
 For Summer 2023, we meet on Wednesdays 11am in CS 5331. Tentative schedule is listed in [this page](https://docs.google.com/spreadsheets/d/1Q_CPf7oDqPB703HyojC0W7FRZt2fLWXLdp2pCpDq9Xg/edit#gid=216649689).
 
-| Date    | Topic                                                                                                          | Leader |
-| June 7  | Markov, Chebyshev, Chernoff inequalities (Wainwright's book chapter 2)                                         | Harit  |
-| June 14 | Bernsein inequality, applications to get generalization error bounds, DKW, VC dimension, Rademacher complexity | Harit  |
+| Date    | Topic                                                                             | Leader |
+| ------- | ------------------------------------------------------------                      | ------ |
+| June 7  | Markov, Chebyshev, Chernoff inequalities (Wainwright's book chapter 2)            | Harit  |
+| June 14 | Hoeffding, Bernsein inequalities, applications to get generalization error bounds | Harit  |
